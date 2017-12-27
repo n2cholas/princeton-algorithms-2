@@ -1,9 +1,9 @@
 # Algorithms, Part II by Princeton University
 Solutions to the Algorithms, Part II course by Princeton University on Coursera.
 
-Solution Scores:
-Assignment 1: 97
-Assignment 2: 95
-Assignment 3: 100
-Assignment 4: 100
-Assignment 5: 89
+<h3> Solution Scores: </h3> <br />
+Assignment 1: 97 <br />
+Assignment 2: 95 <br />
+Assignment 3: 100 <br />
+Assignment 4: 100 <br />
+Assignment 5: 89 <br />
